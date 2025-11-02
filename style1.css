@@ -1,0 +1,36 @@
+.container{
+    width: 100%;
+    max-width:1300px;
+        margin:auto;
+        padding: 0;
+        .about{
+            text-align: center;
+            h1{
+                font-size: 50px;
+                    line-height: 60px;
+                    margin: 25px 0px;
+                    background-color: palevioletred;
+                    text-align: center;
+            }
+            .customunderlinecontainer{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+        .customunderline{
+            width: 300px;
+            height: 5px;
+            border-radius: 5px;
+            background-color: red;
+        }
+        }
+        p{
+            font-size: 20px;
+        }
+        h2{
+            background-color: plum;
+        }
+        h2{
+            color: lavenderblush;
+        }
+        
+}}
